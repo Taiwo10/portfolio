@@ -11,3 +11,4 @@ def list_sum(num_list):
     # printt the result of the calling the list_sum function with the input[2,4,5,6,7]
 print(list_sum([2,4,5,6,7]))
     
+    # let's see whteher it worked
